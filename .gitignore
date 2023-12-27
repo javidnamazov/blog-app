@@ -34,7 +34,3 @@ build/
 
 ### ENV Files ###
 .env
-
-### Git Ignore ###
-.gitignore
-
